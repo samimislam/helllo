@@ -1,3 +1,2 @@
 This is test text file.
-Another line.
-Third line.
+Another line1.
